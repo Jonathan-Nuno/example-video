@@ -3,7 +3,7 @@
 }
 
 
-h1, .search, .weatherContainer {
+h1, h2, .search, .weatherContainer {
     display: grid;
     place-items: center;
 }
