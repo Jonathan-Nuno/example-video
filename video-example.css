@@ -3,7 +3,7 @@
 }
 
 
-h1, h2, .search, .weatherContainer {
+h1, h3, .search, .weatherContainer {
     display: grid;
     place-items: center;
 }
@@ -20,5 +20,5 @@ button {
     color: antiquewhite;
     background: none;
     border: none;
-    
+    cursor: pointer;
 }
